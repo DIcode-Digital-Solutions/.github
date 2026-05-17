@@ -85,7 +85,7 @@ We apply the same architectural rigour to a 10-person SME as we do to an enterpr
 
 ---
 
-## The Team
+## The Founders
 
 | | Role |
 |---|---|
