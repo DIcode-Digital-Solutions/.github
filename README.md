@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/your-org-id?s=120&v=4" width="80" alt="DIcode Digital Solutions" />
-
 # DIcode Digital Solutions
 
 **Enterprise Software Engineering · Cape Town, South Africa**
